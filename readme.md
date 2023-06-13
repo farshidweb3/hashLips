@@ -9,7 +9,7 @@ This guide will walk you through the process of creating NFTs using the Hashlips
 3. How to Use the Smart Contract
 
 
-[![Watch the video](HashLips-art-engine.jpg)](introduction_hashlips.mp4)
+[![Watch the video](HashLips-art-engine.jpg)](https://www.youtube.com/watch?v=qggXQUV-0T0&t=973s)
 
 ## Technologies Used
 
